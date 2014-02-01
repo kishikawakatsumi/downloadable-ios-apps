@@ -1,0 +1,13 @@
+PODS:
+  - JavaScriptBridge (0.1.2)
+  - zipzap (6.0)
+
+DEPENDENCIES:
+  - JavaScriptBridge
+  - zipzap
+
+SPEC CHECKSUMS:
+  JavaScriptBridge: 7b9f56a6eba922acc3f22a93934ab428266d8cff
+  zipzap: b13673dfd2b79f30db88603ffe95c68bc728f617
+
+COCOAPODS: 0.29.0
